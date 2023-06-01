@@ -1,0 +1,30 @@
+* {
+    box-sizing: border-box;
+}
+
+body {
+    margin: 0;
+}
+
+.nav {
+    box-shadow: lightslategray;
+    color: rgba(128, 128, 128, 0.58);
+    display: flex;
+    justify-content: center;
+    margin-left: auto;
+    margin-right: auto;
+    flex: auto;
+    flex-wrap: wrap;
+    
+}
+
+.navtext {
+    margin-left: 5;
+    margin-right: 5;
+}
+
+.navtext:hover {
+    color: rgba(128, 128, 128, 0.815)
+}
+
+
